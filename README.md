@@ -1,1 +1,5 @@
-NetCDFList
+![aws codebuild badge](https://codebuild.ap-southeast-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiUDAxaXN1OHZoSGdGb3JaUVBSc0EzWEVNamg4dDYvaGNQVDdJc1FmK1dXQTU2YktsNEs1TWRHT2EydEw0SHJ6bUo5UEUvZ1RmenBNTEdmV3BnSFhZZkxRPSIsIml2UGFyYW1ldGVyU3BlYyI6InBuWUJZVkdYaFJUbTFjc0kiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
+### NetCDFList
+
+AWS Lambda (JAVA) Lists previously uploaded NetCDF resources.
