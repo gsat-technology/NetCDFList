@@ -1,7 +1,7 @@
 package com.gsat.netcdflist;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.gsat.netcdflist.domain.lambda.LambdaRequest;
+import com.gsat.netcdflist.domain.lambda.lambda.LambdaRequest;
 import com.gsat.netcdflist.utils.Utils;
 import org.apache.commons.io.FileUtils;
 
@@ -53,6 +53,5 @@ public class Main {
         }
 
         System.out.println(outStream.toString());
-
     }
 }

@@ -1,4 +1,4 @@
-package com.gsat.netcdflist.domain.lambda;
+package com.gsat.netcdflist.domain.lambda.lambda;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
