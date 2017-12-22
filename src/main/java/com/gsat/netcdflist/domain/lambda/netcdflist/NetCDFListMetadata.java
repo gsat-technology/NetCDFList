@@ -5,17 +5,20 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public class NetCDFListMetadata {
 
     @JsonProperty("filesize")
-    String filesize;
+    public String filesize;
 
     @JsonProperty("created")
-    String created;
+    public String created;
 
     @JsonProperty("url")
-    String url;
+    public String url;
 
     public NetCDFListMetadata(String filesize, String created, String url) {
         this.filesize = filesize;
         this.created = created;
         this.url = url;
+    }
+
+    public NetCDFListMetadata() {
     }
 }
